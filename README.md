@@ -13,6 +13,8 @@ Visual Studio Code, Aseprite
 ![image](https://user-images.githubusercontent.com/114903308/193676544-4d97930c-540c-4051-908f-543923ab5ea6.png)
 - Fighting/Player Controls: 
 # GUI Features:
+![image](https://user-images.githubusercontent.com/114903308/193676893-d4946375-5455-44e0-befb-8155d8f7a850.png)
+
 # Development Process: 
 # Installations:
 # Instructions: 
